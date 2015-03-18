@@ -1,0 +1,7 @@
+Subject: Zimbra Backup Error!
+From: "Zimbra Backup Script" <noreply@smartit.bg>
+To: <admin@smartit.bg>
+
+Message Body
+
+
