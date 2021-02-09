@@ -1,4 +1,6 @@
-admin@smartit.bg
+CONTACT:
+
+<pavel.zhelyazkov@smartit.bg>
 
 'zmbkpose' do parallel backups independently, even with -a switch.
 Current script is passing to zmbkpose five accounts at once with -a switch.
